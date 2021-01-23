@@ -77,8 +77,8 @@ footer address:last-child {
 @media(min-width: 992px) {
 	
 	.topCasaFina-banner {
-		left: 50%;
-    	transform: translate(0, -80%);
+	left: 30%;
+    	transform: translate(0, 60%);
     	width: 50%;
 	}
 
